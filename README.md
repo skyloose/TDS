@@ -7,7 +7,7 @@
 
 
 
-# 🛠⚠ Detection & BanRisk : Unknown
+# 🛠⚠ Detection & Ban risk : Unknown
 
 # ⓘ Requirements <Towers>
 1- Sniper
