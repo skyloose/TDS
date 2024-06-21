@@ -1,2 +1,3 @@
-# TDS Auto EXP & Coin grind 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+# Tower Defense Simulator : Auto EXP & COINS ![Alt text](https://static.wikia.nocookie.net/tower-defense-sim/images/6/6d/Coin.png/revision/latest/scale-to-width-down/15?cb=20210516120458)
+
+
