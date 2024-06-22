@@ -11,4 +11,4 @@
 
 # ⓘ Requirements <Towers>
 1- Sniper
-2- Have <ins> [AutoLeave.lua](https://raw.githubusercontent.com/skyloose/TDS/main/AutoLeave.lua) </ins> in the executor Autoexec folder 
+2- Have [AutoLeave.lua](https://raw.githubusercontent.com/skyloose/TDS/main/AutoLeave.lua)  in the executor Autoexec folder or else it will stand still when the game ends 
