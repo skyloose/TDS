@@ -8,6 +8,7 @@
 
 
 # 🛠⚠ Detection & Banrisk : Unknown
+No bans were detected yet but incase use it in a alt 
 
 # ⓘ Requirements <Towers>
 1- Sniper
