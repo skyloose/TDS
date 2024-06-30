@@ -14,5 +14,5 @@ No bans were detected yet but incase use it in a alt
 1- Sniper ![Alt text](https://static.wikia.nocookie.net/tower-defense-sim/images/e/e0/DefaultSniperIcon1.png/revision/latest/scale-to-width-down/125?cb=20230226225940)
 2- Militant ![Alt text](https://static.wikia.nocookie.net/tower-defense-sim/images/6/62/EasterMilitant_Icon.png/revision/latest/scale-to-width-down/125?cb=20230518041247)
 # READ
-# YOU MUST HAVE [AutoLeave.lua](https://raw.githubusercontent.com/skyloose/TDS/main/AutoLeave.lua)  IN THE EXECUTOR AUTOEXEEC OR ELSE IT WILL STAND STILL WHEN THE GAME ENDS
+
 # IF YOU WANT TO MAKE IT EXECUTE BY ITSELF PUT THE SCRIPT INTO YOUR EXECUTOR AUTOEXEC FOLDER | DELETE IT IF YOU WANT TO STOP USING IT
